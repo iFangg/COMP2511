@@ -1,0 +1,16 @@
+.DS_Store
+lab01/.DS_Store
+lab01/bin/
+lab01/*.class
+lab01/.gradle
+lab01/build
+lab02/.DS_Store
+lab02/bin/
+lab02/*.class
+lab02/.gradle
+lab02/build
+lab03/.DS_Store
+lab03/bin/
+lab03/*.class
+lab03/.gradle
+lab03/build
